@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Logs & cache
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Training artifacts (optional)
+*.ckpt
+*.pth.tar
